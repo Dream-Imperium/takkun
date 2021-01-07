@@ -50,7 +50,7 @@ When it is active, the screen is dimmed, but if there is no compositor running, 
     - `[username] [hostname] =NOPASSWD: /sbin/sysctl kernel.grsecurity.deny_new_usb=0`
 
 - Webcam Support (requires ffmpeg): This will take a webcam shot of whoever may
-  be tampering with your machine before poweroff. The shot will normally be stored as ~/takkun.png
+  be tampering with your machine before poweroff. The shot will normally be stored as ~/takkun.png/.jpg
 
 - Twilio Support: You will receive an SMS to your phone when someone inputs a
   wrong password or pressed ALT/CTRL/F1-13/SYSRQ. See twilio_example.h to create a
