@@ -1,4 +1,6 @@
-# takkun - a screenlocker for the **extremely** paranoid
+![takkun](takkun.png "takkun")
+<h1 align="center"> takkun </h1> 
+### a screenlocker for the **extremely** paranoid
 
 This is a screenlocker with a lot of security features.
 
